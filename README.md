@@ -1,2 +1,2 @@
 # FundamentalStuff
-Few fundamentals related to computer science
+A repository for practice and store code related competitive programming challanges
